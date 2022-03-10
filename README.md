@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eminadigzlv
-- 👀 I’m interested in more courses
+- 👋 Hi, I’m Emin Adigozelov
+- 👀 I’m interested in java programming 
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate as freelancer
 - 📫 How to reach me  -> https://www.linkedin.com/in/emin-adigozelov-63077b163/
